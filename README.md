@@ -70,56 +70,38 @@ const sathwik = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 SkillMatrix <em>(EquiHire)</em></h3>
-      <a href="https://github.com/SaiSathwikAnchuri">Source Code</a>
+      <h3>🤖 UPI Dispute Resolution Agent</h3>
+      <a href="https://github.com/SaiSathwikAnchuri/upi-dispute-resolution-agent">Source Code</a>
       <br/><br/>
-      Blind recruitment system eliminating bias from hiring. Candidates assessed purely on skills via AI-powered evaluation using Google Gemini API. Built full-stack — auth, Gemini integration, role-based dashboards, and a marketing site.
+      Autonomous agent that classifies UPI failure scenarios — sent-not-received, failed-to-send, duplicate payments — and independently executes resolutions including auto-refunds and real-time status updates, with zero manual intervention.
       <br/><br/>
-      <code>MERN</code> <code>Google Gemini API</code> <code>JWT</code>
+      <code>Python</code> <code>Flask</code> <code>SQLite</code> <code>Mock Bank API</code>
     </td>
+    <td width="50%" valign="top">
+      <h3>🎮 Gamified Habit Tracker</h3>
+      <a href="https://github.com/SaiSathwikAnchuri/gamified-habit-tracker">Source Code</a>
+      <br/><br/>
+      Habit-building platform with XP progression, streak multipliers, friend leaderboards, automated milestone notifications, and a community page — designed to keep users accountable through game-like engagement.
+      <br/><br/>
+      <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code> <code>Tailwind CSS</code>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📊 Student Progress System</h3>
       <a href="https://github.com/SaiSathwikAnchuri/student-codeforces-progress">Source Code</a>
       <br/><br/>
-      Automated dashboard that pulls Codeforces profiles via API, runs cron jobs for periodic syncs, and surfaces performance trends with visual charts. Zero manual data entry.
+      Dashboard for tracking competitive programming progress with scheduled Codeforces data sync, rating trend charts, problem-difficulty heatmaps, solve history visualization, automated email reminders for inactive students, and CSV export.
       <br/><br/>
-      <code>React</code> <code>Express</code> <code>Cron.js</code> <code>TypeScript</code>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>Cron.js</code> <code>Tailwind CSS</code>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3>💬 Chatter Box</h3>
       <a href="https://github.com/SaiSathwikAnchuri/chatterbox-application">Source Code</a>
       <br/><br/>
-      Real-time chat application with WebSocket-powered instant messaging, room-based architecture, and a fully responsive UI. Handles concurrent connections cleanly.
+      Real-time multi-user chat application supporting room-based conversations, live messaging, switchable themes, and a fully responsive interface.
       <br/><br/>
-      <code>React</code> <code>Node.js</code> <code>Socket.io</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔢 Sorting Visualizer</h3>
-      <a href="https://interactive-sorting-visualizer.vercel.app/">Live Demo</a> | <a href="https://github.com/SaiSathwikAnchuri/Sorting-Visualizer">Source Code</a>
-      <br/><br/>
-      Interactive step-by-step visualization of Bubble Sort, Merge Sort, and Quick Sort with adjustable speed controls. Built to make algorithm intuition click.
-      <br/><br/>
-      <code>React</code> <code>Tailwind CSS</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏦 LoanLens <em>(Hackathon)</em></h3>
-      <a href="https://github.com/SaiSathwikAnchuri">Source Code</a>
-      <br/><br/>
-      Predatory loan detection system built for a Banking — Lending &amp; Credit hackathon. Flags exploitative lending patterns using RBI grievance data and regulatory references.
-      <br/><br/>
-      <code>Python</code> <code>Data Analysis</code> <code>RBI APIs</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📋 Techlearn Dashboard</h3>
-      <a href="https://techlearn-frontend-w4xd.onrender.com/">Live Demo</a> | <a href="https://github.com/SaiSathwikAnchuri/Tls-solutions">Source Code</a>
-      <br/><br/>
-      Secure role-based workflow dashboard with JWT authentication, task management, and protected routes for different user tiers.
-      <br/><br/>
-      <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>JWT</code>
+      <code>React</code> <code>Node.js</code> <code>Express</code> <code>Socket.IO</code> <code>Bootstrap</code>
     </td>
   </tr>
 </table>
@@ -169,8 +151,8 @@ const sathwik = {
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:saisathwikanchuri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:saisathwik1402@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://github.com/SaiSathwikAnchuri">
