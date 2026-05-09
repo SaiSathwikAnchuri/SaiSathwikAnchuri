@@ -147,7 +147,7 @@ const sathwik = {
 ## 📬 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sai-sathwik-anchuri">
+  <a href="https://www.linkedin.com/in/saisathwik-anchuri-604b85292/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
