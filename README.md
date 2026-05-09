@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;Competitive+Programmer;Open+Source+Contributor;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+Stack;AI+Developer+%7C+Building+AI+Agents;Competitive+Programmer;Open+Source+Contributor;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,8 +12,6 @@
   <img src="https://komarev.com/ghpvc/?username=SaiSathwikAnchuri&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/SaiSathwikAnchuri?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/CGPA-9.18%2F10-brightgreen?style=flat-square" alt="CGPA" />
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Internships-orange?style=flat-square" alt="Open to Internships" />
 </p>
@@ -24,12 +22,11 @@
 
 ```typescript
 const sathwik = {
-  education : "B.Tech IT @ VNRVJIET, Hyderabad  |  CGPA: 9.18",
-  year      : "3rd Year (2022 – 2026)",
+  education : "B.Tech IT @ VNRVJIET, Hyderabad",
+  year      : "3rd Year (2023 – 2027)",
   stack     : ["MERN", "TypeScript", "REST APIs", "WebSockets"],
   experience: ["Ikipendence (Production Platform)", "Staniya (Full-Stack Co-Dev)"],
-  interests : ["System Design", "Competitive Programming", "Open Source"],
-  currentlyOn: "Placement season — targeting SWE internships",
+  interests : ["AI Agents", "System Design", "Competitive Programming", "Open Source"],
   funFact   : "I debug faster with music on 🎧",
 };
 ```
