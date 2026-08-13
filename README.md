@@ -23,7 +23,7 @@
 ```typescript
 const sathwik = {
   education : "B.Tech IT @ VNRVJIET, Hyderabad",
-  year      : "3rd Year (2023 – 2027)",
+  year      : "4th Year (2023 – 2027)",
   stack     : ["MERN", "TypeScript", "REST APIs", "WebSockets"],
   experience: ["Ikipendence (Production Platform)", "Staniya (Full-Stack Co-Dev)"],
   interests : ["AI Agents", "System Design", "Competitive Programming", "Open Source"],
